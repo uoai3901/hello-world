@@ -1,3 +1,2 @@
 # hello-world
-Just another reposi
-Hi
+Hi XD
